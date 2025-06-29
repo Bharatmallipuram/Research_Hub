@@ -238,14 +238,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** - For the utility-first CSS framework
 - **React Community** - For the amazing ecosystem and tools
 
-## 📞 Support
-
-If you have any questions or need help with the project:
-
-1. Check the [Issues](../../issues) page for existing questions
-2. Create a new issue with detailed information
-3. Contact the development team
-
 ---
 
 **Built with ❤️ by the ResearchHub Team**
