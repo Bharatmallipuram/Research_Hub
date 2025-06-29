@@ -2,12 +2,6 @@
 
 A modern web application that allows users to search for research papers along with their associated code repositories. Built with React, TypeScript, and Tailwind CSS.
 
-![ResearchHub Screenshot](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=ResearchHub)
-
-## 🚀 Live Demo
-
-Visit the live application: [https://snazzy-croquembouche-921991.netlify.app](https://snazzy-croquembouche-921991.netlify.app)
-
 ## ✨ Features
 
 ### Core Functionality
